@@ -1,4 +1,4 @@
-class bd9 < Formula
+class Bd9 < Formula
   desc "GitHub Commit Backdater"
   homepage "https://github.com/scamelot/bd9"
   url "https://github.com/scamelot/bd9/releases/download/v1.0.0/bd9.zip"
