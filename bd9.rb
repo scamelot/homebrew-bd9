@@ -12,6 +12,8 @@
       url "https://github.com/scamelot/bd9/releases/download/#{version}/bd9-linux-x86_64.tar.gz"
       sha256 "f0274a06f3654caeb22e3bad2f6137007782b4fb3950b9e3747ca1bd2e9d5761"
 
+    end
+    
     def install
       if OS.mac?
         bin.install "bd9-darwin-universal" => "bd9"
