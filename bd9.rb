@@ -23,4 +23,3 @@
       system "#{bin}/bd9", "-h"
     end
   end
-  EOF
